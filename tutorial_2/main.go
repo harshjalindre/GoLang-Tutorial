@@ -22,4 +22,6 @@ func main() {
 	var1, var2, var3 := "A", "B", "C" // Multiple short declaration
 	fmt.Println("Multiple Strings:", var1, var2, var3)
 
+	const pi = 3.14159 // Constant declaration
+	fmt.Println("Constant Pi:", pi)
 }
